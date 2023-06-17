@@ -89,7 +89,8 @@ nav .fa{
     }
     .header{
         background-image: linear-gradient(rgba(4,9,30,0.7),rgba(4,9,30,0.7)),url(images/5c0b4e065a0e4jacqueline-fernandez-old26.avif);
-        background-position: calc(1600px);
+        background-position: 50%;
+        background-repeat:no-repeat;
     }
     .text-box p{
         font-size: 14px;
